@@ -3,9 +3,7 @@
   <h1 align="center">Theseus: An open-source pair programmer</h1>
 </div>
 
-<div align="center">
-  <video src="https://github.com/rob82281/Theseus/assets/theseus.mp4" type="video/mp4"></video>
-</div>
+[Video](https://github.com/user-attachments/assets/762dec5e-0883-48d5-82b8-90adf0a0f251)
 
 ### How do y'all ship so quickly?
 We have a __**community-driven Dev Team**__ for this repo. Tweet us at TheseusKnows!
