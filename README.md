@@ -4,9 +4,7 @@
 </div>
 
 <div align="center">
-  
-  https://github.com/rob82281/Theseus/assets/theseus.mp4
-  
+  <video src="https://github.com/rob82281/Theseus/assets/theseus.mp4" type="video/mp4"></video>
 </div>
 
 ### How do y'all ship so quickly?
