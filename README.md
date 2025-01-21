@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <h1 align="center">Theseus: An open-source pair programmer</h1>
+  <h1 align="center">Theseus: A Solana DeFi AI Agent Builder that revolutionizes decentralized finance</h1>
 </div>
 
 [Video](https://github.com/user-attachments/assets/e9b10ccd-68da-4e69-a978-8ebd314213fd)
@@ -143,12 +143,12 @@ theseus-tui --help
 ```
 
 # Features
-- Multi-file editing
+- Smart Contract Generation
 - Codebase exploration
 - Config writing
 - Test writing
 - Bug fixing
-- Architecture exploration
+- Protocol Integration
 - Local model support
 
 ### Limitations
