@@ -209,7 +209,7 @@ npm install -g theseus-tui
 
 # How can I contribute?
 
-theseus and the entropy-research org are community-driven, and we welcome contributions from everyone!
+theseus is community-driven, and we welcome contributions from everyone!
 From tackling issues to building features to creating datasets, there are many ways to get involved:
 
 - **Core functionality:** Help us develop the core agents, user experience, tool integrations, plugins, etc.
