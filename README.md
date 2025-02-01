@@ -6,7 +6,7 @@
 [Video](https://github.com/user-attachments/assets/e9b10ccd-68da-4e69-a978-8ebd314213fd)
 
 ### How do y'all ship so quickly?
-We have a __**community-driven Dev Team**__ for this repo. Tweet us at TheseusKnows!
+We have a __**community-driven Dev Team**__ for this repo. Tweet at us!
   
 # Installation
 
@@ -166,7 +166,8 @@ theseus-tui --help
   - [x] GPT4-o
   - [x] Groq llama3-70b
   - [x] Ollama deepseek-6.7b
-  - [ ] Google Gemini 1.5 Pro
+  - [x] Google Gemini 1.5 Pro
+  - [ ] Deepseek r1
 - Launch plugin system for tool and agent builders
 - Improve our self-hostable Electron app
 - Set SOTA on [SWE-bench Lite](https://www.swebench.com/lite.html)
@@ -218,11 +219,11 @@ From tackling issues to building features to creating datasets, there are many w
 
 For details, please check [CONTRIBUTING.md](./CONTRIBUTING.md).
 
-Tweet us at TheseusKnows
+Tweet at us!
 
 # Feedback
 
-We would love feedback! Tweet us at TheseusKnows
+We would love feedback! Tweet at us!
 We collect basic event type (i.e. "tool call") and failure telemetry to solve bugs and improve the user experience, but if you want to reach out, we would love to hear from you!
 
 To disable telemetry, set the environment variable `theseus_TELEMETRY_DISABLED` to `true` 
@@ -232,5 +233,5 @@ export theseus_TELEMETRY_DISABLED=true
 
 # Community
 
-Tweet us at TheseusKnows
+Tweet at us!
 
